@@ -1,2 +1,2 @@
 # porfilio-danials
-demo-link : https://lnkd.in/dsEj3NbT
+demo-link : (https://potfilio-s-s.netlify.app/)
